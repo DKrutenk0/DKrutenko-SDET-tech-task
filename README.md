@@ -25,5 +25,8 @@ and install it by following this [instruction](https://docs.oracle.com/en/java/j
 
 ![maven_install.jpg](images%2Fmaven_install.jpg)
 
-### It should perform the installation of framework with the necessary tools. That's it
-
+### It should perform the installation of framework with the necessary tools and run the test. 
+### If you want to run test again - please click on this [hyperlink](src/test/java/globallogic/tech/task/SearchFilmTest.java) or navigate to its location manually by following this path:
+```
+src/test/java/globallogic/tech/task/SearchFilmTest.java
+```
