@@ -12,7 +12,7 @@ public class SearchFilmTest extends TestRunner {
     public void verifyMovieSearch() {
         HomePage homePage = new HomePage();
         MoviePage moviePage = new MoviePage();
-        var expectedMovieTitle = "Back to the future";
+        var expectedMovieTitle = "Back to the Future";
         var expectedMovieYear = "1985";
         var expectedMovieDescription = "Marty McFly, a 17-year-old high school student, is accidentally sent 30" +
                 " years into the past in a time-traveling DeLorean invented by his close friend," +
