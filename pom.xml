@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>globallogic.tech.task</groupId>
-    <artifactId>DKrutenko-SDET-tech-task</artifactId>
+    <artifactId>DKrutenko-tech-task</artifactId>
     <version>1.0</version>
 
     <properties>
