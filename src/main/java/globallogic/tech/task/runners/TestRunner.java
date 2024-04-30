@@ -19,7 +19,9 @@ public abstract class TestRunner {
     public void openHomePage() {
         setCapabilities();
         open("https://www.imdb.com/");
-        getWebDriver().manage().window().maximize();
+        getWebDriver().manage()
+                .window()
+                .maximize();
     }
 
     @AfterMethod
