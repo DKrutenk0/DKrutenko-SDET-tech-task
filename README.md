@@ -1,4 +1,4 @@
-# Dmytro Krutenko's SDET Technical Task
+# Dmytro Krutenko's short project
 
 ### Instructions for setting up the framework
 
